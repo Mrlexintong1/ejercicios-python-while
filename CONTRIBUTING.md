@@ -1,0 +1,1 @@
+Cualquier mejora es bienvenida. Por favor, realiza un fork y abre un Pull Request.
