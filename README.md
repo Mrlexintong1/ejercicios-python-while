@@ -9,7 +9,7 @@ Este repositorio contiene ejercicios básicos escritos en Python que demuestran 
 
 ## Autor
 Desarrollado por **Carlos Tlali Rosales**, estudiante de Ingeniería en Ciberseguridad.  
-GitHub: [https://github.com/CarlosTlali](https://github.com/CarlosTlali)
+
 
 ## Requisitos
 Python 3.x
